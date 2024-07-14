@@ -1,8 +1,11 @@
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Manish+Sagar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+Hi, this is Manish Sagar
 
 - 🔭 Focusing on Data Science (Data Analytics + Machine Learning + AI + Big Data).😎
 
