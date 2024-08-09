@@ -7,7 +7,7 @@
 
 Hi, this is Manish Sagar.
 
-- 🔭 Currently focusing on Data Science (Data Analytics + Machine Learning + AI + Big Data).😎
+- 🔭 Currently focusing on Data Science (Data Analytics + Machine Learning + Gen AI + Big Data).😎
 
 
 
