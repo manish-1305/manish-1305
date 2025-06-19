@@ -10,7 +10,7 @@ Hi, this is Manish Sagar.
 scalable data pipelines, optimizing ETL workflows, and managing large datasets. Proven ability to drive growth, enhance retention, and
 implement analytics best practices. Adept at uncovering insights, predictive modelling, and delivering error-free reports using Power BI, DAX,
 and SQL. Passionate about leveraging big data and AI for data-driven decision-making.
--  Data Engineering | Data Analytics | Machine Learning | Gen AI | Big Data 😎
+                         Data Engineering | Data Analytics | Machine Learning | Gen AI | Big Data 😎
 
 
 
